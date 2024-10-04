@@ -3,6 +3,9 @@ Instant Gratification는 캐글에서 자체적으로 만든 competition입니�
 해당 방안을 개선하기위해 내놓은 Code Competition을 테스트하기위해 "Instant Gratification"을 개최했습니다.
 
 종류: 이진분류
+
 평가지표: AUC
+
 훈련데이트수:262,144
+
 열(column)수: 258(256개의 열 + id + target)
